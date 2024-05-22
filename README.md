@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Wandhekar</h1>
 <!-- <h3 align="center">A passionate MERN Developer from India</h3>
  -->
-<div align="center" "> <img src="https://65be5d6df775d9a2229d7dec--tourmaline-gumdrop-14dad4.netlify.app/images/pasha.png" height="270" width="300"  border-radius="20"> </div>
+<!-- <div align="center" "> <img src="https://65be5d6df775d9a2229d7dec--tourmaline-gumdrop-14dad4.netlify.app/images/pasha.png" height="270" width="300"  border-radius="20"> </div> -->
 <h3 align="center">A passionate MERN Developer From India.</h3>
 
 
