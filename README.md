@@ -15,7 +15,7 @@
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
   <div align="left">
-- 🔭 I’m currently working on **various projects at ToucMedia Ads**
+<!-- - 🔭 I’m currently working on **various projects at ToucMedia Ads**
 
 - 🌱 I’m currently learning **MERN Stack,AWS,Web3,etc**
 
@@ -26,10 +26,10 @@
 - 📫 How to reach me **prasadwandhekar25@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_y_KkpqPqE7PqKV-Ii_FSiIFvHFN1uKw/view?usp=drivesdk](https://drive.google.com/file/d/1_y_KkpqPqE7PqKV-Ii_FSiIFvHFN1uKw/view?usp=drivesdk)
-
+ 
 - ⚡ Fun fact **is i am Enthusiastic coder.**
 - </div>
-
+-->
 
 - </div>
 
